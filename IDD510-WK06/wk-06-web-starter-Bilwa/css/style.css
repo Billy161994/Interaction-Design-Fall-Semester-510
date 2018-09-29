@@ -1,0 +1,52 @@
+body{
+  background-image: url("https://data.whicdn.com/images/319236753/original.png?t=1536741233");
+  width: auto;
+}
+
+
+button{
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  font-size: 20px;
+  padding:10px;
+  border: black;
+
+}
+
+button:hover{
+  opacity: 0.9;
+  background-color: black;
+  color: red;
+}
+
+
+p{
+  text-align: center;
+}
+
+h1{
+  font-size: 80px;
+  color: blue;
+  font-family: futura;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+
+ .hero-img-top {
+   background-image: url("https://pre00.deviantart.net/afa3/th/pre/f/2011/334/a/b/harry_potter_deathly_hallows_wallpaper_by_mrstonesley-d4hsdd9.png");
+   min-height: 800px;
+ min-width: auto;
+
+ }
+
+.text-md-center {
+  color: blue;
+}
+
+ #contact{
+   text-align: center;
+   color: blue;
+   font-size: 30px;
+ }
